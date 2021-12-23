@@ -4,7 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <!-- 搭建教程 https://blog.csdn.net/qq_24232123/article/details/87623953 -->
+    <!-- https://blog.csdn.net/qq_24232123/article/details/87623953 -->
+    <!-- https://www.jianshu.com/p/9a8d94c0c90c -->
+    <!-- nacos https://www.cnblogs.com/ameken/articles/14752315.html -->
 
     <groupId>org.example</groupId>
     <artifactId>spring-cloud-alibaba</artifactId>
