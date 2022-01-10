@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-order
+  cloud:
+    nacos:
+      config:
+        server-addr: 112.124.119.183:8848
